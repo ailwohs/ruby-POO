@@ -1,0 +1,6 @@
+.bundle
+bin/configlet
+bin/configlet.exe
+coverage/
+.last_generator_run
+node_modules/
